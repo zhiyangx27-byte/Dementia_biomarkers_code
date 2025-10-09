@@ -64,4 +64,4 @@ The scripts are organized by analysis module and should be run in the following 
 
 If you use this code or the associated data in your research, please cite our paper:
 
-> [Insert your final paper citation here once it is published. For now, you can put "Author(s), (Year). Title of Paper. *Journal Name*. DOI"]
+> "Author(s), (Year). Title of Paper. *Journal Name*. DOI"
