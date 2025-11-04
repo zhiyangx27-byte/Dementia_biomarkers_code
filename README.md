@@ -15,7 +15,7 @@ This study presents an integrative multi-modal framework for characterizing and 
 The raw snRNA-seq and spatial transcriptomics data are publicly available from the Seattle Alzheimer's Disease Brain Cell Atlas (SEA-AD) and associated public repositories, as detailed in the manuscript's Methods section.
 
 **All processed data files required to run the analysis scripts in this repository are available on Zenodo:**
-* **DOI:** 10.5281/zenodo.17299987
+* **DOI:** 10.5281/zenodo.17299986
 
 ## Software and Package Versions
 
