@@ -1,4 +1,4 @@
-<img width="432" height="28" alt="image" src="https://github.com/user-attachments/assets/00b24c70-7e3d-4032-ab02-9342d9b692e7" /># Code for: Multi-Modal Profiling of Alzheimer’s Disease: From Dual Molecular Signatures to Neuropathology-Predominant Cognitive Prediction 
+# Code for: Multi-Modal Profiling of Alzheimer’s Disease: From Dual Molecular Signatures to Neuropathology-Predominant Cognitive Prediction 
 
 This repository contains the complete R and Python code used to perform the analyses and generate the figures for the manuscript "Integrative Multi-Modal Analysis Prioritizes Quantitative Neuropathology for Predicting Cognitive Status in Alzheimer's Disease".
 
